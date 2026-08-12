@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    color: black;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    color: black;
+    margin:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gamestart {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgreen;
+    color: black;
+    font-size: 40px;
+    cursor: pointer;
+    margin-left: 240px;
+}
